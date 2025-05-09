@@ -1,0 +1,32 @@
+I just started and project is at the very beginning
+
+Lab 2 has number of students but app works with one
+student at a time
+
+Input:  Student name - check it is not empty
+        Number of attempts - check between 1 to 4
+        Score - check it is between 0 and 100
+
+Submit Button
+
+Grade logic is similar to Lab 2
+
+Validation: Score must be between 0 and 100
+
+Produce message to user
+
+Store results in CSV file, CSV File will be like in the video
+
+MVC model will be similar to project 1
+
+i will design GUI using QT Designer
+convert it to python file using pyuic6
+pyuic6 -x grading.ui -o grading_view.py
+
+this will be View, it cannot be changed manually
+
+then i will create
+controller.py that connects GUI and model
+
+and main.py to run the application
+
